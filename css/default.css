@@ -1,0 +1,23 @@
+div {
+    box-sizing: border-box;
+}
+
+.treemap {
+    position: relative;
+
+    width: 802px;
+    height: 402px;
+
+    border: 1px solid black;
+}
+
+.box {
+    position: absolute;
+    background-color: lightgreen;
+    color: #666;
+
+    border: 1px solid #999;
+
+    text-align: center;
+    font-family: sans-serif;
+}

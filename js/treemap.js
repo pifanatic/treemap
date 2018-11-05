@@ -80,4 +80,3 @@ DATA.forEach(item => {
     $treemap.appendChild($el);
 });
 
-console.log(result);
